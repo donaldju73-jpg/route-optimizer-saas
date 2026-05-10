@@ -1,0 +1,12 @@
+{
+  "buildCommand": "pnpm build",
+  "devCommand": "pnpm dev",
+  "installCommand": "pnpm install",
+  "framework": "vite",
+  "outputDirectory": "dist",
+  "env": {
+    "VITE_APP_TITLE": "@Route Optimizer SaaS",
+    "VITE_APP_LOGO": "@Route Optimizer",
+    "VITE_APP_ID": "@route_optimizer_saas"
+  }
+}
